@@ -1,0 +1,30 @@
+{
+  "COD10K_Test": {
+      "mask": {
+          "path": "/home/Noisy-cod-main/code/data/COD10K_Test/mask",
+          "prefix": "",
+          "suffix": ".png"
+      }
+  },
+  "CAMO_TestingDataset": {
+      "mask": {
+          "path": "/home/Noisy-cod-main/code/data/CAMO_TestingDataset/mask",
+          "prefix": "",
+          "suffix": ".png"
+      }
+  },
+  "CHAMELEON_TestingDataset": {
+      "mask": {
+          "path": "/home/Noisy-cod-main/code/data/CHAMELEON_TestingDataset/mask",
+          "prefix": "",
+          "suffix": ".png"
+      }
+  },
+  "NC4K": {
+      "mask": {
+          "path": "/home/Noisy-cod-main/code/data/NC4K/mask",
+          "prefix": "",
+          "suffix": ".png"
+      }
+  }
+}

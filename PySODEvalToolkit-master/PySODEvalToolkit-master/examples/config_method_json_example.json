@@ -1,0 +1,24 @@
+{
+  "MyModel": {
+      "COD10K_Test": {
+          "path": "/home/Noisy-cod-main/code/results/1%/COD10K_Test",
+          "prefix": "",
+          "suffix": ".png"
+      },
+      "CAMO_TestingDataset": {
+          "path": "/home/Noisy-cod-main/code/results/1%/CAMO_TestingDataset",
+          "prefix": "",
+          "suffix": ".png"
+      },
+      "CHAMELEON_TestingDataset": {
+          "path": "/home/Noisy-cod-main/code/results/1%/CHAMELEON_TestingDataset",
+          "prefix": "",
+          "suffix": ".png"
+      },
+      "NC4K": {
+          "path": "/home/Noisy-cod-main/code/results/1%/NC4K",
+          "prefix": "",
+          "suffix": ".png"
+      }
+  }
+}
